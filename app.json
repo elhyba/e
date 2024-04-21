@@ -1,0 +1,25 @@
+{
+	"name": "اللهم صلي علي سيدنا محمد و علي اله و صحبه و سلم",
+	"description": "بوت تحويل الصور للابيض و الاسود",
+	"logo": "https://telegra.ph/file/5116db79f852db113875c.jpg",
+	"keywords": [
+		"telegram",
+		"bot",
+		"python",
+		"pyrogram"
+	],
+    "env": {
+        "ELHYBA": {
+            "description": "Your Telegram Bot Token from @BotFather",
+            "value": ""
+	   }
+	},
+	"buildpacks": [
+		{
+			"url": "heroku/python"
+		}
+	]
+}
+
+
+
